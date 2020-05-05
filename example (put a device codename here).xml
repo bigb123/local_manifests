@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <project name="<name of the repo owner>/<name of the repo>" path="where/the/code/will/be/stored/on/a/disk" remote="github" revision="branch-name" />
-</manifest>
