@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="bigb123" fetch="https://github.com/bigb123/" />
-  <project name="android_kernel_samsung_apq8084.git" path="kernel/samsung/apq8084" remote="bigb123" revision="master" />
+  <project name="android_kernel_samsung_apq8084" path="kernel/samsung/apq8084" remote="bigb123" revision="master" />
   <project name="samsung-android_vendor" path="vendor" remote="bigb123" revision="master" />
   <project name="samsung-android_frameworks_av_media_libstagefright_rtmp_srs_rtmp_st" path="frameworks/av/media/libstagefright/rtmp/srs_rtmp/st" remote="bigb123" revision="master" />
   <project name="samsung-android_build_target_product" path="build/target/product" remote="bigb123" revision="master" />
