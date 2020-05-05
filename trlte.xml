@@ -2,5 +2,5 @@
 <manifest>
   <remote name="bigb123" fetch="https://github.com/bigb123/" />
   <project name="samsung-android_vendor" path="vendor" remote="bigb123" revision="master" />
-    <project name="samsung-android_frameworks_av_media_libstagefright_rtmp_srs_rtmp_st" path="frameworks/av/media/libstagefright/rtmp/srs_rtmp/st" remote="bigb123" revision="master" />
+  <project name="samsung-android_frameworks_av_media_libstagefright_rtmp_srs_rtmp_st" path="frameworks/av/media/libstagefright/rtmp/srs_rtmp/st" remote="bigb123" revision="master" />
 </manifest>
