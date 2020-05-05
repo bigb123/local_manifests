@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="bigb123/android_system_samsung" path="system" remote="github"
-    revision="master" />
+  <project name="bigb123/samsung-android_vendor" path="vendor" remote="github" revision="master" />
+    <project name="bigb123/samsung-android_frameworks_av_media_libstagefright_rtmp_srs_rtmp_st" path="frameworks/av/media/libstagefright/rtmp/srs_rtmp/st" remote="github" revision="master" />
 </manifest>
